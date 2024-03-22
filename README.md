@@ -47,6 +47,7 @@ Convert string number values to integers or decimals.
 With the database documents prepared, conduct some exploratory analysis on the database to provide some high-level insights:
 
 For each question, provide the following information:
+
 Count of documents.
 Display the first document.
 Convert results to a Pandas DataFrame and display.
